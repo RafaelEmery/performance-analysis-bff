@@ -1,4 +1,4 @@
-module bff
+module github.com/RafaelEmery/performance-analysis-bff
 
 go 1.20
 
